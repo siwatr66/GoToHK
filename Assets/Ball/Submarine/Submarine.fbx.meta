@@ -1,0 +1,360 @@
+fileFormatVersion: 2
+guid: 52557d2def81aaf448f61ad3bc32146f
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body
+    second: {fileID: 2100000, guid: b9708efe2882b30449c601327766d896, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body1
+    second: {fileID: 2100000, guid: c5ebda26dd8efd1478048ba10e646a38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body2
+    second: {fileID: 2100000, guid: e2317d7ee5abfd24b861f17335f7d5a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body3
+    second: {fileID: 2100000, guid: 44c948c2bc3cb404c90bcd3f612fb231, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body4
+    second: {fileID: 2100000, guid: 1a3ca12f265d0d84d83e3df99cf21f06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Enegin
+    second: {fileID: 2100000, guid: b4229c73353584e45ae7c20a77a9049b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Enegin1
+    second: {fileID: 2100000, guid: 8889bfdc7f007984d95c8d6eb7128d19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Enegin2
+    second: {fileID: 2100000, guid: 80c6cf30928fcbb4a9ed8fae1a6ec91b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Enegin3
+    second: {fileID: 2100000, guid: 8087647aa98c68448aa0a73c4d64c3e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Enegin4
+    second: {fileID: 2100000, guid: 9a5d7a0d87c779f40b13f60307ae082e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Handle
+    second: {fileID: 2100000, guid: a09d6ea30df78964c990c5b2486cbeaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Handle1
+    second: {fileID: 2100000, guid: 59e2a3fbe5edc2d47a5b6a4e6e23a08b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light
+    second: {fileID: 2100000, guid: 0e3df04184b73164f80abcc85aa597f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light1
+    second: {fileID: 2100000, guid: 6eeec428dfa55c24396d4e378d572c27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Value
+    second: {fileID: 2100000, guid: 8e14e9904a9694846aca4d1ed46e7df9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Value1
+    second: {fileID: 2100000, guid: 4ad895c17ee3fe24ca2342652cfb8408, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: openPBR_shader1
+    second: {fileID: 2100000, guid: e6f124e3c39e1294b96b163187847cba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window
+    second: {fileID: 2100000, guid: a6af33fbff6f73e479fa9d6d922da92a, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Submarine_Body1_BaseMap
+    second: {fileID: 2800000, guid: 7ed23f24d0bbde1488b6adb43c390a2b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Submarine_Body1_MaskMap
+    second: {fileID: 2800000, guid: eb11ef2a20284194eb579cc137feca73, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Submarine_Body2_BaseMap
+    second: {fileID: 2800000, guid: dbacdecb01c899144aa93d26b310bc6c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Submarine_Body2_MaskMap
+    second: {fileID: 2800000, guid: 857602befb7dc164a866edb8dbe84790, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Submarine_Body3_BaseMap
+    second: {fileID: 2800000, guid: 6da05e6cdbbb9b0408680102ed2fe81a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Submarine_Body3_MaskMap
+    second: {fileID: 2800000, guid: b0a287980055c8c4b8af0b10bcf2c58c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Submarine_Body4_BaseMap
+    second: {fileID: 2800000, guid: 5eb1d8de600bc9d4d8309c3d0d31f117, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Submarine_Body4_MaskMap
+    second: {fileID: 2800000, guid: cd5c1bb78f9a26440b0e10d779a77ba1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Submarine_Body_BaseMap
+    second: {fileID: 2800000, guid: 9619bd5eedced84469e596eb225e23bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Submarine_Body_MaskMap
+    second: {fileID: 2800000, guid: f180ab6de82400f4c903320c254d417e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Submarine_Enegin1_BaseMap
+    second: {fileID: 2800000, guid: d06ac596ebdb7a649b8067643fa597be, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Submarine_Enegin1_MaskMap
+    second: {fileID: 2800000, guid: fdc7ddcd79753054ba0a6d4a1ee32f01, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Submarine_Enegin2_BaseMap
+    second: {fileID: 2800000, guid: 6bd27940e02dabc479b1d03db8a7fc6d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Submarine_Enegin2_MaskMap
+    second: {fileID: 2800000, guid: 488bac1047c6ea649b181b4faa6acb65, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Submarine_Enegin3_BaseMap
+    second: {fileID: 2800000, guid: c889ac314b4a70a40993c59e10b55639, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Submarine_Enegin3_MaskMap
+    second: {fileID: 2800000, guid: cc6546b9bdb46654b9348093a9dcf1ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Submarine_Enegin4_BaseMap
+    second: {fileID: 2800000, guid: a7e75947418941a40ac7eeecbbbd7395, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Submarine_Enegin4_MaskMap
+    second: {fileID: 2800000, guid: 7d0dc7fd91f15b54e87683712eaf6a0a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Submarine_Enegin_BaseMap
+    second: {fileID: 2800000, guid: dfff523526169884c9b4d6d9a71b0fec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Submarine_Enegin_MaskMap
+    second: {fileID: 2800000, guid: 65093504c545cae49b715b1c267e6fc0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Submarine_Handle1_BaseMap
+    second: {fileID: 2800000, guid: c87d7107971b7f445895e93966089788, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Submarine_Handle1_MaskMap
+    second: {fileID: 2800000, guid: a2b3f1f7d3b23bd4189819abb0f1523f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Submarine_Handle_BaseMap
+    second: {fileID: 2800000, guid: d7c7e3a2132c85e4b926830c8896f469, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Submarine_Handle_MaskMap
+    second: {fileID: 2800000, guid: bfd146251a3b6ca43aff3ddeee6792af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Submarine_Light1_BaseMap
+    second: {fileID: 2800000, guid: 902275d48f7ff4e4cbea536db78a0883, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Submarine_Light1_MaskMap
+    second: {fileID: 2800000, guid: c631721e873ae754196dd3c3255c227e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Submarine_Light_BaseMap
+    second: {fileID: 2800000, guid: a593018a33623214daa96addf69e663f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Submarine_Light_MaskMap
+    second: {fileID: 2800000, guid: bdc6238d200c4f9448c5294185ad3f11, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Submarine_Value1_BaseMap
+    second: {fileID: 2800000, guid: 36937932afe51f64da3306312beb9ccc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Submarine_Value1_MaskMap
+    second: {fileID: 2800000, guid: 47c42e3b47dd56d4fb30ad09581c0453, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Submarine_Value_BaseMap
+    second: {fileID: 2800000, guid: 315e47b572504994db58556ad0ad4a8e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Submarine_Value_MaskMap
+    second: {fileID: 2800000, guid: e59bc27fc89cbb44ebbd351e626c1ed7, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 40
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 40
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
